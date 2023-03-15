@@ -40,7 +40,7 @@ You can run this project by opening the Problem4.ipynb file in Jupyter Notebook 
 
 ## Results
 
-The results of this project are included in the Problem4.ipynb file and the discussion can be found in the PDF file. The results include the statistics of each feature, the histogram of the labels, the best number of neighbors k, the accuracy of the k-NN algorithm on test data, and the effect of centralization and standardization on the accuracy.
+The results of this project are included in the Problem4.ipynb file. The results include the statistics of each feature, the histogram of the labels, the best number of neighbors k, the accuracy of the k-NN algorithm on test data, and the effect of centralization and standardization on the accuracy.
 
 ## Conclusion
 
