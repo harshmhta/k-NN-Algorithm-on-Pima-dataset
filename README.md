@@ -1,4 +1,4 @@
-# Pima Indians Diabetes dataset and k-NN Algorithm
+# k-NN Algorithm on Pima Indians Diabetes dataset 
 
 This project focuses on experimenting with the k-NN algorithm on the Pima Indians Diabetes dataset from the UCI repository to find the optimal value for the number of neighbors k. The dataset has 768 rows of data (potential diabetes patients) and 9 columns (8 input features including Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age, and 1 target output).
 
